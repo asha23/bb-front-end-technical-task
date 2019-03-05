@@ -1,0 +1,10 @@
+.card {
+    margin-bottom:30px;
+}
+
+.card-header,
+.card-body,
+.card-footer {
+    border:1px solid #ebebeb;
+}
+
