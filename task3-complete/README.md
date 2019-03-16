@@ -18,7 +18,7 @@ fetch('./data.json')
 
 The production build is in the ```/build``` folder
 
-This project took 5 hours to complete. Why? Because I needed to research the best way to pull in the ajax files you supplied. Could have used fetch. But it wasn't quite working for me. So I thought I'd look into a better way. Axios. Which I'd not used before. 
+This project took 5 hours to complete. Why? Because I needed to research the best way to pull in the json files you supplied. Could have used fetch. But it wasn't quite working for me. So I thought I'd look into a better way. Axios. Which I'd not used before. 
 
 Kind of wanted to teach myself the best way to approach it. Do it properly.
 
